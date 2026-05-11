@@ -1,0 +1,6 @@
+{
+  "name": "Konjugation Shooter",
+  "description": "A German verb conjugation typing game where you defend the center from incoming enemies by typing the correct conjugated forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
